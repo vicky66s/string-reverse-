@@ -6,7 +6,6 @@ public class ReverseString {
         }
         return reversed.toString();
     }
-
     public static void main(String[] args) {
         String inputStr = "Hello, World!";
         String reversedStr = reverseString(inputStr);
